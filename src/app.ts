@@ -14,7 +14,7 @@ const submitButton = document.querySelector<HTMLButtonElement>("button")!;
 const footer = document.querySelector<HTMLFormElement>("footer")!;
 
 //cle de l'api
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "#######################";
 
 /**
  * transformer 35 et "legos, jeux vidéos"
